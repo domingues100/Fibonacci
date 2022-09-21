@@ -4,7 +4,7 @@ int main(){
 int a = 0;  //fn-2
 int b = 1;  //fn-1
 int aux;    //aux
-int i;
+int i;      //aux
 int n;      //count number
 
 printf("Digite a quantidade de termos desejada: ");     
